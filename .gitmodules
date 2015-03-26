@@ -13,3 +13,6 @@
 [submodule "services/mariadb"]
 	path = services/mariadb
 	url = git@github.com:johna1203/docker-mariadb.git
+[submodule "base/data"]
+	path = base/data
+	url = git@github.com:johna1203/docker-data.git
