@@ -1,0 +1,3 @@
+[submodule "base/debian"]
+	path = base/debian
+	url = git@github.com:johna1203/docker-debian.git
