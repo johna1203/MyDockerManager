@@ -4,3 +4,6 @@
 [submodule "applications/magento"]
 	path = applications/magento
 	url = git@github.com:johna1203/nginx-php-magento.git
+[submodule "frameworks/nginx"]
+	path = frameworks/nginx
+	url = git@github.com:johna1203/docker-nginx.git
