@@ -7,3 +7,6 @@
 [submodule "frameworks/nginx"]
 	path = frameworks/nginx
 	url = git@github.com:johna1203/docker-nginx.git
+[submodule "frameworks/nginx-php"]
+	path = frameworks/nginx-php
+	url = git@github.com:johna1203/docker-nginx-php.git
