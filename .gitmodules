@@ -16,3 +16,6 @@
 [submodule "base/data"]
 	path = base/data
 	url = git@github.com:johna1203/docker-data.git
+[submodule "applications/magento2"]
+	path = applications/magento2
+	url = git@github.com:johna1203/nginx-php-magento2.git
